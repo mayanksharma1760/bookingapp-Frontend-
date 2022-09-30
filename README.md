@@ -1,5 +1,9 @@
 The Hotel Booking App in which Frontend mainly consist of JSX and CSS files .Create a Quite good looking web app
 
+This contains mainly three pages
+1)Home page- contains all information about app(by search button or stays icon you will get  List page)
+2)List page-contains List of Hotels("see Avalability button gave Hotel page")
+3)Hotel page- contains elaborated details of specific hotel with pictures and description
 ### `npm start`
 
 Runs the app in the development mode.\

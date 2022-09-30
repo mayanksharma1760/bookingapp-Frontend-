@@ -14,7 +14,7 @@ const Home = () => {
         <Header/>
         <div className="homeContainer">
           <Featured/>
-          <h1 className="homeTitle">Properties Type</h1>
+          <h1 className="homeTitle" >Properties Type</h1>
           <PropertyList/>
           <h1 className="homeTitle">Home Guest</h1>
           <FeaturedProperties/>

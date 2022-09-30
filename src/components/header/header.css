@@ -1,4 +1,4 @@
-.header {
+@import url('https://fonts.googleapis.com/css2?family=Lato&family=Mochiy+Pop+One&family=Rubik+Dirt&family=Yeon+Sung&display=swap');.header {
     background-color: #094461;
     color: white;
     display: flex;
@@ -17,6 +17,7 @@
   }
   
   .headerList {
+    font-family: 'Mochiy Pop One', sans-serif;
     display: flex;
     gap: 40px;
     margin-bottom: 50px;
@@ -45,14 +46,17 @@
     border-radius: 20px;
   } */
   .headerTitle{
+    font-family: 'Lato', sans-serif;
     color: white;
   }
   
   .headerDesc {
+    font-family: 'Lato', sans-serif;
     margin: 20px 0px;
   }
   
   .headerBtn {
+    font-family: 'Yeon Sung', cursive;
     background-color: #0071c2;
     color: white;
     font-weight: 500;
@@ -60,9 +64,11 @@
     padding: 10px;
     cursor: pointer;
     border-radius: 7px;
+    font-size: 20px;
   }
   
   .headerSearch {
+    font-family: 'Lato', sans-serif;
     height: 30px;
     /* background-color: gray; */
     background-color: rgb(164, 221, 243);
@@ -91,8 +97,10 @@
   }
   
   .headerSearchInput {
+    font-family: 'Lato', sans-serif;
     border: none;
     outline: none;
+    border-radius: 5px;
     
   }
   

@@ -1,4 +1,6 @@
 .fp {
+  font-family: 'Lato', sans-serif;
+
     width: 100%;
     max-width: 1024px;
     display: flex;

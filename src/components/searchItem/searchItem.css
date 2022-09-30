@@ -1,4 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&family=Lobster&family=Mochiy+Pop+One&family=Rubik+Dirt&family=Yeon+Sung&display=swap');
+
 .searchItem {
+  font-family: 'Lato', sans-serif;
     border: 1px solid lightgray;
     padding: 10px;
     border-radius: 5px;
@@ -99,7 +102,8 @@
   }
   
   .siCheckButton{
-    background-color: #0071c2;
+    
+        background-color: #0071c2;
     color: white;
     font-weight: bold;
     padding: 10px 5px;

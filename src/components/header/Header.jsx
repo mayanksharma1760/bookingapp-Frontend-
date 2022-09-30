@@ -83,8 +83,9 @@ const Header = ({type}) => {
                     Start booking rooms in the Desired city YOu want -Now
                 </p>
                 <button className="headerBtn">Sign in / Register</button>
-                <div className="headerSearch">
 
+                
+                <div className="headerSearch">
                     <div className="headerSearchItem">
                         <FontAwesomeIcon icon={faBed} className="headerIcon"  />
                         <input type="text" 

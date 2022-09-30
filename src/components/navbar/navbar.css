@@ -1,6 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&family=Mochiy+Pop+One&family=Rubik+Dirt&family=Yeon+Sung&display=swap');
+
 *{
     margin:0px;
-    padding:0px
+    padding:0px;
 }
 .navbar{
     height: 50px;
@@ -19,15 +21,18 @@
   }
   
   .logo{
+    font-family: 'Rubik Dirt', cursive;
     font-weight: 500;
     color: black;
     font-size: 20px;
   }
   
   .navButton{
+    font-family: 'Yeon Sung', cursive;
     margin-left: 20px;
     border: none;
     padding: 5px 10px;
     cursor: pointer;
     color: #192a41;
+    font-size: 20px;
   }

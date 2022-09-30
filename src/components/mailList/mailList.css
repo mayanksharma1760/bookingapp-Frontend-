@@ -1,4 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&family=Lobster&family=Mochiy+Pop+One&family=Rubik+Dirt&family=Yeon+Sung&display=swap');
+
 .mail{
+  font-family: 'Lobster', cursive;
     width: 100%;
     margin-top: 50px;
     background-color:  #094461;
